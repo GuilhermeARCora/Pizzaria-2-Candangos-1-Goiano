@@ -25,7 +25,7 @@ O objetivo principal deste projeto é práticar HTML/CSS e bootstrap, através d
 
 1. Clone este repositório para o seu ambiente de desenvolvimento:
    
-   git clone https://github.com/seu-usuario/Pizzaria-2-Candangos-1-Goiano.git
+   https://github.com/GuilhermeARCora/Pizzaria-2-Candangos-1-Goiano.git
 
 2. Acesse o site online hospedado no github
 
